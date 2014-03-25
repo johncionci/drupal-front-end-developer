@@ -1,4 +1,4 @@
-drupal-front-end-developer
+Drupal Front End Developer
 =============================
 
 Drupal Front End Developer provides an easy way for theme developers see exactly what viewport resolution they are currently viewing.
@@ -13,6 +13,9 @@ Other features include:
 * Highlights images without alt tags set
 
 == Changelog ==
+
+= 1.1 =
+* Fix errors and warnings from Drupal.org review
 
 = 1.0 =
 * Update css for visual appearance

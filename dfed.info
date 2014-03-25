@@ -2,4 +2,3 @@ name = Drupal Front-End Developer
 description = Drupal Front End Developer provides an easy way for theme developers see exactly what viewport resolution they are currently viewing.
 package = Developer
 core = 7.x
-files[] = dfed.module
