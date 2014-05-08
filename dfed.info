@@ -1,4 +1,4 @@
-name = Drupal Front-End Developer
-description = Drupal Front End Developer provides an easy way for theme developers see exactly what viewport resolution they are currently viewing.
+name = Front-End Developer
+description = Front End Developer provides an easy way for theme developers to see exactly what viewport resolution they are currently viewing.
 core = 7.x
-package = Developer
+package = Development
